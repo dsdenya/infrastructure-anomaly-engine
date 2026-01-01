@@ -20,8 +20,7 @@ def parse_arguments():
     parser.add_argument('--ufo', type=str, default='data/ufo.csv', help='Path to UFO CSV')
     parser.add_argument('--plants', type=str, default='data/powerplant.csv', help='Path to Power Plant CSV')
     parser.add_argument('--census', type=str, default='data/pop_census.csv', help='Path to Census CSV')
-    parser.add_argument('--outage_dir', type=str, default='data/', help='Directory containing eaglei outage files')
-    
+    parser.add_argument('--outage_dir', type=str, default='data/raw_outages', help='Directory containing eaglei outage files')    
     parser.add_argument('--output', type=str, default='Final_Report.csv', help='Path to save the final normalized dataset')
     
     return parser.parse_args()
