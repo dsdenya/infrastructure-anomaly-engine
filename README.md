@@ -17,4 +17,18 @@ Results:
 <img width="497" height="322" alt="image" src="https://github.com/user-attachments/assets/841aa4a1-e291-4b10-b20d-d528c2359e47" />
 
 No. There is no statistical relationship detected.
-Sorry, Mulder. Not with this project. 
+Sorry, Detective Mulder. Maybe next time. 
+
+
+Source for the .csv files:
+UAP Sightings:
+https://www.kaggle.com/datasets/NUFORC/ufo-sightings
+
+Census:
+https://data.census.gov/
+
+Outages:
+https://catalog.data.gov/dataset/event-correlated-outage-dataset-in-america/resource/b74446fb-892b-4841-92df-47d6a3ef1036 
+
+Powerplant: 
+https://www.epa.gov/power-sector/power-plants-and-neighboring-communities-mapping-tool#data%20download
