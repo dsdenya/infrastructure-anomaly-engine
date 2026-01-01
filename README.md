@@ -14,13 +14,22 @@ Engineered robust feature extraction algorithms to normalize time-series events 
 Optimized data processing using Pandas vectorization, enabling the system to aggregate 100,000+ rows in under 2 seconds.
 
 Results:
+
+
 <img width="497" height="322" alt="image" src="https://github.com/user-attachments/assets/841aa4a1-e291-4b10-b20d-d528c2359e47" />
 
-No. There is no statistical relationship detected.
-Sorry, Detective Mulder. Maybe next time. 
+
+Statistical Result: After normalizing for population (Events per 100k capita), the analysis yielded a Null Result:
+Correlation (UAP vs Outages): -0.086 (No significant relationship)   
+Correlation (UAP vs Nuclear Capacity): -0.083 (No significant relationship)
+
+This data-driven approach disproves the hypothesis that UAP activity is causally linked to grid instability, attributing initial perceived patterns to population density bias.
+
+Sorry, Detective Mulder. 
+Maybe next time. 
 
 
-Source for the .csv files:
+Sources for this project:
 UAP Sightings:
 https://www.kaggle.com/datasets/NUFORC/ufo-sightings
 
